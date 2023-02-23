@@ -36,7 +36,7 @@ Hi, I'm Benno!
 
 <h3 align="left">⚙️Languages and Tools:</h3>
 <p align="left"> 
-    <div style="max-width: 120px; display: flex; justify-content: flex-start;">
+    <div>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
         </a> 
@@ -50,9 +50,7 @@ Hi, I'm Benno!
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
         </a> 
     </div>
-    <div style="display: flex; justify-content: end;">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </div>
+    <a align="right" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
 </p>
 
