@@ -2,7 +2,7 @@
 
 
 <h2 align="left" dir="auto">
-Hi, I'm Benno! 
+Hi, I'm Pedro! 
 <img style="float: right; width: 200px;" alt="Coding" width="30" src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif">
 </h2>
 <div>
@@ -13,12 +13,12 @@ Hi, I'm Benno!
 
 <p align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennovasconcellos@gmail.com?subject=Olá%20Benno%20Vasconcellos)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 <span style="margin: 0px 10px;"></span>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/benno_vasconcellos/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 <span style="margin: 0px 10px;"></span>
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
-)](https://www.codewars.com/users/MrBenno)
+)](https://www.codewars.com/users/)
 <p>
 <img style="float: right; width: 200px;" alt="Space" width="30" src="https://media4.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif">
 </p>
@@ -56,9 +56,9 @@ Hi, I'm Benno!
 
 <h2 align="left" dir="auto">📅 Activity</h2>
 
-![Benno's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTadeu&show_icons=true&theme=dracula)
+![Benno's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerPedro4K&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTadeu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerPedro4K)](https://github.com/anuraghazra/github-readme-stats)
 
 
